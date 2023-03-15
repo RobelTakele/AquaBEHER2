@@ -9,5 +9,5 @@
 ##' hello2("and goodbye")
 ##' @export
 hello2 <- function(txt = "world") {
-    cat("Hello, ", txt, "\n")
+    paste("Hello, ", txt, "\n")
 }

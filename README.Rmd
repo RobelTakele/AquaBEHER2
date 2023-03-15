@@ -18,6 +18,7 @@ AquaBEHER2 <img src="man/figures/package-sticker.png" align="right" style="float
 =========================================================
 
 <!-- badges: start -->
+[![Dependencies](https://img.shields.io/badge/dependencies-0/0-brightgreen?style=flat)](#)
 <!-- badges: end -->
 
 
