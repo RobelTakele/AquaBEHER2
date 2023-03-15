@@ -1,0 +1,10 @@
+citHeader("To cite AquaBEHER2 in publications use:")
+
+bibentry(
+  bibtype = "Manual",
+  title   = "AquaBEHER2: {An} {R} package to ...",
+  author  = c(person("Takele Robel")),
+  year    = "2023",
+  note    = "R package version 0.0.0.9000",
+  url     = "https://github.com/RobelTakele/AquaBEHER2"
+)
